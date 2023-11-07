@@ -36,5 +36,7 @@
     void print_data(students_info *st);
     void input_one_mark(students_info *st);
     void marks_for_discipline(students_info *st, char discipline[30]);
+    void edit_mark(students_info *st);
+    void sort_group_marks(students_info *st, int st_num);
 
 #endif
