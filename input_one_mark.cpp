@@ -1,3 +1,5 @@
+/* Module to input new mark for a student */
+
 #include "students.h"
 
  void input_one_mark(students_info *st)

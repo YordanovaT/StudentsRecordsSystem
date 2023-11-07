@@ -1,3 +1,5 @@
+/* Module to outpust all marks for given subject */
+
 #include "students.h"
 
 void marks_for_discipline(students_info *st, char discipline[30])

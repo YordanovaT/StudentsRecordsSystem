@@ -1,3 +1,5 @@
+/* Module to input student's data */
+
 #include "students.h"
 
 void enter_data(students_info *st)

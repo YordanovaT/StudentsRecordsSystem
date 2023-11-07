@@ -1,10 +1,7 @@
-// Program to store information about student or all students.
-// It also allows to redact student data such as:
-// name, avg grade, faculty number
+// Program to store information about student / students.
 
 #include "students.h"
     
-
 
 int main()
 {

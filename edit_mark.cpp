@@ -1,3 +1,5 @@
+/* Module to edit student's mark on perticular subject */
+
 #include "students.h"
 
 void edit_mark(students_info *st)

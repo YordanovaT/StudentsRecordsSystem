@@ -1,6 +1,6 @@
+/* Module to output student's data */
+
 #include "students.h"
-
-
 
 void print_data(students_info *st)
 {

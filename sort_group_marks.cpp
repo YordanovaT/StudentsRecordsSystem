@@ -1,3 +1,5 @@
+/* Module to sort students' grades and output the highest one */
+
 #include "students.h"
 
 void sort_group_marks(students_info *st, int st_num)
